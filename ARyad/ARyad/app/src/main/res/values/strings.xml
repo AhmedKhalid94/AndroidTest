@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">رياض الأطفال</string>
+    <string name="select">اختار</string>
+    <string name="kids_learning">رياض الأطفال</string>
+    <string name="from">من</string>
+    <string name="let_us_learn">رياض الأطفال </string>
+    <string name="no_thanks">لا , شكرا</string>
+    <string name="sure">نعم</string>
+    <string name="mad">أحمد</string>
+    <string name="house">أبو حصيرة</string>
+
+    <string name="animals">الحيوانات</string>
+    <string name="alphabets"> تمهيدي الفصل الثاني عربي</string>
+    <string name="colors">الألوان</string>
+    <string name="fruits">الفواكه</string>
+    <string name="shapes">الروضة</string>
+    <string name="vegetables">الخضروات</string>
+    <string name="vehicles">وسائل النقل</string>
+    <string name="objects">  منزلنا الجميل  </string>
+    <string name="birds">طيور</string>
+
+
+
+
+    <array name="colors">
+        <item>@color/red</item>
+        <item>@color/pink</item>
+        <item>@color/purple</item>
+        <item>@color/indigo</item>
+        <item>@color/blue</item>
+        <item>@color/lightblue</item>
+        <item>@color/cyan</item>
+        <item>@color/teal</item>
+        <item>@color/green</item>
+        <item>@color/lime</item>
+        <item>@color/yellow</item>
+        <item>@color/amber</item>
+        <item>@color/orange</item>
+        <item>@color/brown</item>
+        <item>@color/grey</item>
+        <item>@color/black</item>
+        <item>@color/white</item>
+    </array>
+    <array name="colorNames">
+        <item>أحمر</item>
+        <item>زهري</item>
+        <item>أرجواني</item>
+        <item>اللون النيلي</item>
+        <item>أزرق</item>
+        <item>أزرق سماوي</item>
+        <item>سياني</item>
+        <item>أزرق مخضر</item>
+        <item>أخضر</item>
+        <item>لون الجير</item>
+        <item>أصفر</item>
+        <item>كهرماني اللون</item>
+        <item>برتقالي</item>
+        <item>بني</item>
+        <item>رمادي</item>
+        <item>أسود</item>
+        <item>أبيض</item>
+    </array>
+
+</resources>
